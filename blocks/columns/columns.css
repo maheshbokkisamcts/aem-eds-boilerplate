@@ -31,3 +31,7 @@
     order: unset;
   }
 }
+
+.about-menu-column, .column1 {
+  margin-top: 480px !important;
+}
