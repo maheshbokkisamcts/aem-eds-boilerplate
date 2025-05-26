@@ -168,3 +168,4 @@
   .form .toggle-wrapper input:checked + .slider::before {
     transform: translateX(24px);
   }
+  
